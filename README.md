@@ -109,7 +109,7 @@ app.listen(PORT, () => {
 
 ###
 
-**<h2>5️⃣ Run the File</h2>**
+**<h2>5️⃣- Run the File</h2>**
 
 ###
 ```powershell
