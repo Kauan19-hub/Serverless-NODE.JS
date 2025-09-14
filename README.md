@@ -85,7 +85,7 @@ app.use(express.json());
 
 const PORT = 3000;
 
-// Rotas básicas
+//BASIC ROUTES
 app.get('/', (req, res) => {
   res.send('API is running!');
 });
