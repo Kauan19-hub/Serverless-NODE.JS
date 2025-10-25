@@ -1,4 +1,4 @@
-**<h2>🌐 Node.JS API</h2>**
+**<h2>Node.JS API</h2>**
 
 ###
 
@@ -7,7 +7,7 @@ Designed with clean architecture and modular code structure.
 
 ###
 
-**<h2>💻 Installation</h2>**
+**<h2>Installation</h2>**
 
 ###
 
@@ -25,7 +25,7 @@ cd Serverless-NODE.JS
 
 ###
 
-**<h2>📂 File Structure</h2>**
+**<h2>File Structure</h2>**
 
 ###
 ```xml
@@ -120,7 +120,7 @@ npx nodemon api.js  ### AUTOMATIC RESTART ON EVERY CHANGE:
 
 ###
 
-**<h2>😎 Extra Tip</h2>**
+**<h2>Extra Tip</h2>**
 
 ###
 
@@ -132,15 +132,3 @@ const PORT = process.env.PORT || 3000;
 ```
 
 ---
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" title="Visual Studio Code" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  title="Git" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="GitHub" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" title="Node.JS" />
-</div>
