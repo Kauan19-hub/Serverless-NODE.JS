@@ -1,4 +1,4 @@
-**<h2>Node.JS API</h2>**
+## Node.JS API | CRUD
 
 ###
 
@@ -7,7 +7,7 @@ Designed with clean architecture and modular code structure.
 
 ###
 
-**<h2>Installation</h2>**
+## Installation
 
 ###
 
@@ -25,7 +25,7 @@ cd Serverless-NODE.JS
 
 ###
 
-**<h2>File Structure</h2>**
+## File Structure
 
 ###
 ```xml
@@ -41,7 +41,7 @@ cd Serverless-NODE.JS
 
 ---
 
-**<h2>1️⃣- Start the Project</h2>**
+## Start the Project
 
 ###
 ```powershell
@@ -50,7 +50,7 @@ npm init -y
 
 ###
 
-**<h2>2️⃣- Install Dependences</h2>**
+## Install Dependences
 
 ###
 ```powershell
@@ -61,7 +61,7 @@ Express is the framework for creating routes (`GET`, `POST`, `DELETE`, `PUT`/`PA
 
 ---
 
-**<h2>3️⃣- Configure the Package.JSON</h2>**
+## Configure the Package.JSON
 
 ###
 ```json
@@ -70,7 +70,7 @@ Express is the framework for creating routes (`GET`, `POST`, `DELETE`, `PUT`/`PA
 
 ###
 
-**<h2>4️⃣- Create the Main File</h2>**
+## Create the Main File
 
 ###
 
@@ -120,7 +120,7 @@ npx nodemon api.js  ### AUTOMATIC RESTART ON EVERY CHANGE:
 
 ###
 
-**<h2>Extra Tip</h2>**
+## Extra Tip
 
 ###
 
