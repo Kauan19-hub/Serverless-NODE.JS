@@ -15,7 +15,7 @@ Clone this repository
 
 ###
 ```powershell
-git clone https://github.com/Kauan19-hub/Serverless-NODE.JS.git
+git clone https://github.com/kauanvinicius9/Serverless-NODE.JS.git
 ```
 
 ###
